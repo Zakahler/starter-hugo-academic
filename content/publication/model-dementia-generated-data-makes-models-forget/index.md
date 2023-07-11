@@ -34,7 +34,7 @@ publication: ""
 featured: false
 date: 2023-05-30T10:12:10.475Z
 url_slides: ""
-title: "The Curse Of Recursion:: Generated Data Makes Models Forget"
+title: "The Curse Of Recursion: Generated Data Makes Models Forget"
 doi: https://doi.org/10.48550/arXiv.2305.17493
 #tags:
 #  - k-inflation
