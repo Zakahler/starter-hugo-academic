@@ -1,6 +1,6 @@
 ---
 avatar_filename: avatar.jpg
-bio: My research interests include applied mathematics.
+bio: My research interests include everything applied mathematics.
 interests: []
 social:
   - icon: envelope
@@ -45,5 +45,5 @@ email: ""
 ---
 I am a PhD student under supervision of Professor Carola Schönlieb at the [Cambridge Image Analysis Group](https://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis) within DAMTP and a member of the [Cantab Capital Institute for the Mathematics of Information](https://www.ccimi.maths.cam.ac.uk/).
 
-I am interested in research in a wide variety of areas of applied mathematics, ranging from inverse problems to applied machine learning, optimisation, inverse problems, theoretical inflationary cosmology. My current research focuses on the areas of geometric deep learning and physics informed machine learning.
+I am interested in research in a wide variety of areas of applied mathematics, ranging from inverse problems to applied machine learning, optimisation, theoretical inflationary cosmology. My current research focuses on the areas of geometric deep learning and physics informed machine learning.
 {style="text-align: justify;"}
