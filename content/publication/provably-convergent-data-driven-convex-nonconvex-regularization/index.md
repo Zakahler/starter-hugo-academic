@@ -8,17 +8,14 @@ abstract: "An emerging new paradigm for solving inverse problems is via the use
   learned adversarial regularization to the CNC framework. Empirically we show
   that our method overcomes numerical issues of previous adversarial methods. "
 draft: false
-url_pdf: https://proceedings.neurips.cc/paper/2021/file/959ab9a0695c467e7caf75431a872e5c-Paper.pdf
+url_pdf: https://openreview.net/pdf?id=yavtWi6ew9
 publication_types:
   - "1"
 authors:
-  - Ilia Shumailov
   - admin
-  - Dmitry Kazhdan
-  - Yiren Zhao
-  - Nicolas Papernot
-  - Murat A Erdogdu
-  - Ross J Anderson
+  - Jeremy Budd
+  - Subhadip Mukherjee
+  - Carola Schönlieb
 publication: NeurIPS 2023 Workshop on Deep Learning and Inverse Problems
 featured: false
 date: 2023-11-28T11:25:54.218Z
@@ -28,6 +25,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-url_code: https://github.com/iliaishacked/sgd_datareorder
+url_code: https://github.com/zakobian
 doi: https://doi.org/10.48550/arXiv.2310.05812
 ---
