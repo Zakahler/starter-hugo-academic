@@ -21,8 +21,8 @@ url_pdf: https://arxiv.org/abs/2305.17493
 publication_types:
   - "3"
 authors:
-  - Ilia Shumailov
   - admin
+  - Ilia Shumailov
   - Yiren Zhao
   - Yarin Gal
   - Nicolas Papernot
@@ -36,16 +36,6 @@ date: 2023-05-30T10:12:10.475Z
 url_slides: ""
 title: "The Curse Of Recursion: Generated Data Makes Models Forget"
 doi: https://doi.org/10.48550/arXiv.2305.17493
-#tags:
-#  - k-inflation
-#  - Inflation
-#  - Curved cosmology
-##  - Power spectra
-#  - Quantum initial conditions
-#  - Change of variables
-#  - Renormalised stress-energy tensor
-#projects:
-#  - cosmology
 image:
   filename: null
   focal_point: Smart
