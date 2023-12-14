@@ -13,8 +13,8 @@ url_pdf: https://arxiv.org/pdf/2211.17248.pdf
 publication_types:
   - "3"
 authors:
-  - Mary I Letey
   - admin
+  - Mary I Letey
   - Fruzsina J Agocs
   - Will J Handley
   - Michael P Hobson
@@ -27,6 +27,7 @@ featured: false
 date: 2022-12-31T16:02:38.971Z
 url_slides: ""
 title: Quantum Initial Conditions for Curved Inflating Universes
+doi: https://doi.org/10.48550/arXiv.2211.17248
 tags:
   - k-inflation
   - Inflation
@@ -42,13 +43,4 @@ image:
   filename: null
   focal_point: Smart
   preview_only: false
-#url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-#url_dataset: ''
-#url_poster: ''
-#url_project: ''
-#url_slides: ''
-#url_source: ''
-#url_video: ''
-
-doi: https://doi.org/10.48550/arXiv.2211.17248
 ---
