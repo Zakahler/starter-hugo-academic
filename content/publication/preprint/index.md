@@ -35,7 +35,7 @@ publication_short: 2024 IEEE ICASSP
 featured: false
 summary: We learn the regularizer from data and make sure that it is convex,
   which gives guarrantees on convergence of variational optimisation.
-date: 2024-1-1T15:53:43.674Z
+date: 2024-01-01T00:00:00.000Z
 url_slides: ""
 title: Data-Driven Convex Regularizers for Inverse Problems
 tags:
