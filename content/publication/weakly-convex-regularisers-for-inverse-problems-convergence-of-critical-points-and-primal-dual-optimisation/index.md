@@ -14,7 +14,7 @@ abstract: "Variational regularisation is the primary method for solving inverse
   lead to improved performance of learned adversarial regularisers for computed
   tomography (CT) reconstruction. "
 draft: false
-url_pdf: https://openreview.net/pdf?id=yavtWi6ew9
+url_pdf: https://arxiv.org/pdf/2402.01052.pdf
 publication_types:
   - "3"
 authors:
