@@ -16,13 +16,13 @@ abstract: "Variational regularisation is the primary method for solving inverse
 draft: false
 url_pdf: https://arxiv.org/pdf/2402.01052.pdf
 publication_types:
-  - "3"
+  - "1"
 authors:
   - admin
   - Jeremy Budd
   - Subhadip Mukherjee
   - Carola Schönlieb
-publication: ""
+publication: ICML 2024
 featured: false
 date: 2024-02-20T16:58:47.220Z
 url_slides: ""
