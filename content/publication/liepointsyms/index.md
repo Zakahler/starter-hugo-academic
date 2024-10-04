@@ -31,7 +31,7 @@ authors:
   - James Rowbottom
   - Ferdia Sherry
   - Melanie Weber
-  - Carola-Bibiane Sch\"onlieb
+  - Carola-Bibiane Schönlieb
 author_notes:
   - Equal contribution
   - Equal contribution
