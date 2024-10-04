@@ -1,5 +1,5 @@
 ---
-title: Lie Algebra Canonicalization: Equivariant Neural Operators under arbitrary Lie Groups
+title: "Lie Algebra Canonicalization: Equivariant Neural Operators under arbitrary Lie Groups"
 publication_types:
   - "1"
 authors:
