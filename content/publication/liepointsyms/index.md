@@ -36,7 +36,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 featured: false
-date: 2024-10-04T12:40:49.984Z
+date: 2024-10-04T12:45:34.051Z
 url_slides: ""
 title: "Lie Algebra Canonicalization: Equivariant Neural Operators under
   arbitrary Lie Groups"
