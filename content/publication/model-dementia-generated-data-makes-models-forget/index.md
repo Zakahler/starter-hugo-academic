@@ -32,9 +32,9 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: ""
+publication: Nature (2024)
 featured: false
-date: 2023-05-30T10:12:10.475Z
+date: 2024-10-04T12:45:21.820Z
 url_slides: ""
 title: AI models collapse when trained on recursively generated data
 image:
