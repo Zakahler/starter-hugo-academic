@@ -43,11 +43,9 @@ highlight_name: true
 title: Zakhar Shumaylov
 email: ""
 ---
-I am a PhD student under supervision of Professor Carola Schönlieb at the [Cambridge Image Analysis Group](https://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis) within DAMTP. I am also a member of the [Cantab Capital Institute for the Mathematics of Information](https://www.ccimi.maths.cam.ac.uk/) and the [Maths4DL programme](https://maths4dl.ac.uk/team-member/zak-shumaylov/).
+I am a PhD student under supervision of Professor Carola Schönlieb at the [Cambridge Image Analysis Group](https://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis) within DAMTP. I am also a member of the [Cantab Capital Institute for the Mathematics of Information](https://www.ccimi.maths.cam.ac.uk/) and the [Maths4DL programme](https://maths4dl.ac.uk/team-member/zak-shumaylov/). Previosuly, I was an ML Research Intern at Apple.
 
-Over the summer 24, I am an ML Research Intern at Apple, working on model compression. 
-
-I am interested in research in a wide variety of areas of applied mathematics, ranging from inverse problems to machine learning, optimisation, theoretical inflationary cosmology and others. So far in my PhD I have focused on the areas of geometric deep learning and physics informed machine learning. More generally I am interested in application of geometry and optimization based techniques to analyze and improve deep learning.
+I am generally interested in applied mathematics, and previously had a chance to contribute to the fields of inverse problems, machine learning, optimisation, theoretical inflationary cosmology and others. So far in my PhD I have focused on the areas of geometric deep learning and physics informed machine learning. More generally I am interested in application of geometry and optimization based techniques to analyze and improve deep learning.
 
 I am currently looking for summer students in the areas described above and if any of those topics sound interesting - reach out, I am always happy to chat! 
 {style="text-align: justify;"}
