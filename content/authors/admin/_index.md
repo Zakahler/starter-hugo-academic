@@ -24,9 +24,15 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+  - display:
+      header: false
+    icon_pack: fab
+    link: https://bsky.app/profile/zakobian.bsky.social
+    icon: bluesky
 organizations:
   - name: University of Cambridge
     url: https://www.damtp.cam.ac.uk/person/zs334
+  - name: Apple
 education:
   courses:
     - course: PhD in Mathematics of Information
@@ -47,7 +53,4 @@ I am a PhD student under supervision of Professor Carola Schönlieb at the [Camb
 
 I am generally interested in applied mathematics, specifically various problems arising at the intersection of optimization, deep learning, geometry, and inverse problems.
 
-So far in my PhD I have focused on the areas of geometric deep learning and physics informed machine learning. 
-
-I am currently looking for summer students in the areas described above and if any of those topics sound interesting - reach out, I am always happy to chat! 
-{style="text-align: justify;"}
+So far in my PhD I have focused on the areas of geometric deep learning and physics informed machine learning.
