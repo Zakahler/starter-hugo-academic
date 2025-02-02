@@ -44,7 +44,7 @@ education:
 superuser: true
 status:
   icon: ☕️
-role: Mathematics PhD student at University of Cambridge
+role: PhD in Mathematics of Information
 highlight_name: true
 title: Zakhar Shumaylov
 email: ""
