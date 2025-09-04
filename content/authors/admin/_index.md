@@ -32,7 +32,7 @@ social:
 organizations:
   - name: University of Cambridge
     url: https://www.damtp.cam.ac.uk/person/zs334
-  - name: Apple
+  - name: Google DeepMind
 education:
   courses:
     - course: PhD in Mathematics of Information
@@ -49,7 +49,7 @@ highlight_name: true
 title: Zakhar Shumaylov
 email: ""
 ---
-I am a PhD student under supervision of Professor Carola Schönlieb at the [Cambridge Image Analysis Group](https://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis) within DAMTP. I am also a member of the [Cantab Capital Institute for the Mathematics of Information](https://www.ccimi.maths.cam.ac.uk/) and the [Maths4DL programme](https://maths4dl.ac.uk/team-member/zak-shumaylov/). I am also an ML Research Intern at Apple, working on model compression.
+I am a PhD student under supervision of Professor Carola Schönlieb at the [Cambridge Image Analysis Group](https://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis) within DAMTP. I am also a member of the [Cantab Capital Institute for the Mathematics of Information](https://www.ccimi.maths.cam.ac.uk/) and the [Maths4DL programme](https://maths4dl.ac.uk/team-member/zak-shumaylov/). I am currently a Student Researcher @ GDM in Mountain View, working on some Inverse Lithography. Before this, I worked as an ML Research Intern at Apple, focusing on model compression.
 
 I am generally interested in applied mathematics, specifically various problems arising at the intersection of optimization, deep learning, geometry, and inverse problems.
 
