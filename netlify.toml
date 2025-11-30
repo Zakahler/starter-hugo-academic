@@ -21,4 +21,7 @@
     debug = true
 
 # Redirect all traffic to the new URL
-/*    /   301!    https://zakobian.github.io/
+[[redirects]]
+  from = "/*"
+  to = "https://zakobian.github.io/"
+  status = 301
