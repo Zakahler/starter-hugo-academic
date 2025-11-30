@@ -23,5 +23,6 @@
 # Redirect all traffic to the new URL
 [[redirects]]
   from = "/*"
-  to = "https://zakobian.github.io/"
+  to = "https://zakobian.github.io"
   status = 301
+  force = true
