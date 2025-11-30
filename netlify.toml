@@ -19,3 +19,6 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+# Redirect all traffic to the new URL
+/*    /   301!    https://zakobian.github.io/
